@@ -44,3 +44,23 @@
 5. < abbr>
 6. < cite>
 7. < dfn>
+
+# CSS
+## Using External CSS:
+![image](https://user-images.githubusercontent.com/79833733/111073030-c86e9680-84e5-11eb-9163-66b7ad0531c4.png)
+
+## Using Internal CSS:
+![image](https://user-images.githubusercontent.com/79833733/111073076-fc49bc00-84e5-11eb-8c6c-c5e40820a5bd.png)
+
+## CSS Selectors:
+|   Selector         |      Meaning                             | Example                              |
+|--------------------|------------------------------------------|--------------------------------------|
+| Universal Selector | Applies to all elements in the document  |* {} Targets all elements on the page |
+| Class Selector     |Matches an element whose class attribute has a value that matches the one specified after the period (or full stop) symbol|.note {} Targets any element whose class attribute has a value of note <br /> p.note {} Targets only <p> elements whose class attribute has a value of note
+
+
+
+
+
+
+
