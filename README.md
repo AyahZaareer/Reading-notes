@@ -2,5 +2,6 @@
 ## Reading note for code 201
 
 
-| Titel                           |    URL  
-|Introductory HTML and JavaScript |
+| Titel                           |    URL |
+|---------------------------------|--------|
+|Introductory HTML and JavaScript |        |
