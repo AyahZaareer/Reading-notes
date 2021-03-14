@@ -23,3 +23,24 @@
 ## < sub>: The < sub> element is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas such as H20.
 
 ![image](https://user-images.githubusercontent.com/79833733/111071881-d837ac00-84e0-11eb-8a5c-34ed73ec31a0.png)
+
+# White Space: 
+## When the browser comes across two or more spaces next to each other, it only displays one space. Similarly if it comes across a line break, it treats that as a single space too. This is known as white space collapsing.
+
+# Line Breaks & Horizontal Rules:
+## <br /> :As you have already seen, the browser will automatically show each new paragraph or heading on a new line. But if you wanted to add a line break inside the middle of a paragraph you can use the line break tag <br />.
+
+![image](https://user-images.githubusercontent.com/79833733/111072354-edadd580-84e2-11eb-98a8-407b4e3cadca.png)
+
+## <hr /> :To create a break between themes — such as a change of topic in a book or a new scene in a play — you can add a horizontal rule between sections using the <hr /> tag.
+
+![image](https://user-images.githubusercontent.com/79833733/111072411-2cdc2680-84e3-11eb-8ae9-25be54a79636.png)
+
+# Semantic Markup:
+1.< strong>
+2.< em>
+3.< blockquote>
+4.< q>
+5.< abbr>
+6.< cite>
+7.< dfn>
