@@ -57,6 +57,7 @@
 |--------------------|------------------------------------------|--------------------------------------|
 | Universal Selector | Applies to all elements in the document  |* {} Targets all elements on the page |
 | Class Selector     |Matches an element whose class attribute has a value that matches the one specified after the period (or full stop) symbol|.note {} Targets any element whose class attribute has a value of note <br /> p.note {} Targets only <p> elements whose class attribute has a value of note
+| ID Selector        |Matches an element whose id attribute has a value that matches the one specified after the pound or hash symbol|#introduction {} Targets the element whose id attribute has a value of introduction |
 
 
 
