@@ -4,7 +4,7 @@
 
 ## HTML Describes the Structure of Pages.
 ### In the browser window you can see a web page that features exactly the same content as the Word document you met on the page 18. To describe the structure of a web page, we add code to the words we want to appear on the page.
-![imag1](![image](https://user-images.githubusercontent.com/79833733/111068644-49bc2e00-84d2-11eb-9da4-b4fac5085e8f.png)
+![imag1](https://user-images.githubusercontent.com/79833733/111068644-49bc2e00-84d2-11eb-9da4-b4fac5085e8f.png)
 
 
 
