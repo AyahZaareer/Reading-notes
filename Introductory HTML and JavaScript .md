@@ -13,7 +13,7 @@
 ## Attributes provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts: a name and a value, separated by an equals sign.
 
 
-![imag2](![image](https://user-images.githubusercontent.com/79833733/111068661-5e98c180-84d2-11eb-8f20-a317a201359c.png)
+![imag2](https://user-images.githubusercontent.com/79833733/111068661-5e98c180-84d2-11eb-8f20-a317a201359c.png)
 
 
 ## Summary:
