@@ -14,7 +14,7 @@
 
 
 ![imag2](![image](https://user-images.githubusercontent.com/79833733/111068661-5e98c180-84d2-11eb-8f20-a317a201359c.png)
-)
+
 
 ## Summary:
 - HTML pages are text documents.
