@@ -95,6 +95,19 @@
 **var numColors ;**
 **numColors =colors. length**
 
+# IF statment:
+![image](https://user-images.githubusercontent.com/79833733/111201817-d991d300-85cb-11eb-81dd-30ec1fff1fe7.png)
+
+## IF --- ELSE Statment:
+![image](https://user-images.githubusercontent.com/79833733/111202081-2675a980-85cc-11eb-9865-d567f40ad802.png)
+
+## Switch Statment:
+![image](https://user-images.githubusercontent.com/79833733/111202343-6ccb0880-85cc-11eb-9fa3-dbbc7d860f32.png)
+
+
+
+
+
 
 
 
