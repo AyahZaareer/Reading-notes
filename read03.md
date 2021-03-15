@@ -50,4 +50,15 @@
 ### The overflow property tells the browser what to do if the content contained within a box is larger than the box itself. It can have one of two values:
 **hidden** : This property simply hides any extra content that does not fit in the box.
 
-**scroll**: This property adds a scrollbar to the box so that users can scroll to see the missing content. On the left, you can see two boxes whose contents expand beyond their set dimensions. The first example has the overflow property with a value of hidden. The second example has the overflow property
+**scroll**: This property adds a scrollbar to the box so that users can scroll to see the missing content. On the left, you can see two boxes whose contents expand beyond their set dimensions. The first example has the overflow property with a value of hidden. The second example has the overflow property with a value of scroll.
+
+![image](https://user-images.githubusercontent.com/79833733/111196050-8f0d5800-85c5-11eb-9fa0-b59b12ded1d4.png)
+
+## Change Inline/Block:
+### display :The display property allows you to turn an inline element into a block-level element or vice versa, and can also be used to hide an element from the page. The values this property can take are:
+**inline** :This causes a block-level element to act like an inline element.
+**block**: This causes an inline element to act like a block-level element.
+**inline-block**: This causes a block-level element to flow like an inline element, while retaining other features of a block-level element.
+**none**: This hides an element from the page. In this case, the element acts as though it is not on the page at all (although a user could still see the content of the box if they used the view source option in their browser).
+
+
