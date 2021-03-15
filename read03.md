@@ -104,10 +104,14 @@
 ## Switch Statment:
 ![image](https://user-images.githubusercontent.com/79833733/111202343-6ccb0880-85cc-11eb-9fa3-dbbc7d860f32.png)
 
+# TYPE COERCION & WEAK TYPING:If you use a data type JavaScript did not expect, it tries to make sense of the operation rather than report an error.
+
+![image](https://user-images.githubusercontent.com/79833733/111202700-d8ad7100-85cc-11eb-85c7-e2c2b229b03b.png)
+
+## CHECKING EQUALITY & EXISTENCE:
+### Because of type coercion, the strict equality operators ===and ! == result in fewer unexpected values than ==and ! = do.
+![image](https://user-images.githubusercontent.com/79833733/111203188-5a9d9a00-85cd-11eb-8d96-15fb4d347210.png)
 
 
-
-
-
-
-
+# Loops:
+![image](https://user-images.githubusercontent.com/79833733/111203314-86208480-85cd-11eb-8fd1-7c16b4678a37.png)
