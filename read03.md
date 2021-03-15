@@ -64,4 +64,29 @@
 
 **none**: This hides an element from the page. In this case, the element acts as though it is not on the page at all (although a user could still see the content of the box if they used the view source option in their browser).
 
+![image](https://user-images.githubusercontent.com/79833733/111197278-f4ae1400-85c6-11eb-90d5-0f0196d80c42.png)
+## Hiding Boxes:
+### visibility:The visibility property allows you to hide boxes from users but It leaves a space where the element would have been. This property can take two values:
+**hidden**: This hides the element.
+**visible**: This shows the element. If the visibility of an element is set to hidden, a blank space will appear in its place.
+
+![image](https://user-images.githubusercontent.com/79833733/111197836-9cc3dd00-85c7-11eb-907e-81f87947387b.png)
+
+# CREATING AN ARRAY:
+## VALUES IN ARRAYS:
+## Values in an array are accessed as if they are in a numbered list. It is important to know that the numbering of this list starts at zero (not one).
+
+### NUMBERING ITEMS IN AN ARRAY :Each item in an array is automatically given a number called an index. This can be used to access specific items in the array. Consider the following array which holds three colors:
+
+![image](https://user-images.githubusercontent.com/79833733/111199137-fb3d8b00-85c8-11eb-8ece-2254c8143f3c.png)
+### Confusingly, index values start at 0 (not 1), so the following table shows items from the array and their corresponding index values: 
+|INDEX  |VALUE     |
+|-------|----------|
+| 0     | 'white'  |
+| 1     | 'black'  |
+| 2     | 'custom' |
+
+
+
+
 
