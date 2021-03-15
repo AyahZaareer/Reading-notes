@@ -6,7 +6,7 @@
 |---------------------------------|------------------------------------------------------------------------|
 |Introductory HTML and JavaScript |  [ clike hre](https://ayahzaareer.github.io/reading2/HTML)             |
 | class-02                        |  [clike her]( https://ayahzaareer.github.io/reading2/class-02 )        |
-| Read 3                          |  [clike her]( https://https://ayahzaareer.github.io/reading2/read03)   |
+| Read 3                          |  [clike her]( https://ayahzaareer.github.io/reading2/read03)           |
 | Read 4                          |                                                                        |
 | Read 5                          |                                                                        |
 | Read 6                          |                                                                        |
