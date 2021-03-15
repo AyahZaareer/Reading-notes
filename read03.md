@@ -87,6 +87,14 @@
 | 2     | 'custom' |
 
 
+### ACCESSING ITEMS IN AN ARRAY: To retrieve the third item on the list, the array name is specified along with the index number in square brackets. Here you can see a variable called i temThree is declared. Its value is set to be the third color from the colors array.
+**var itemThr ee;**
+**itemThree = colors [ 2] ;**
+
+### NUMBER OF ITEMS IN AN ARRAY :Each array has a property called length, which holds the number of items in the array. Below you can see that a variable called numCo 1 ors is declared. Its value is set to be the number of the items in the array. The name of the array is followed by a period symbol (or full stop) which is then followed by the 1 ength keyword.
+**var numColors ;**
+**numColors =colors. length**
+
 
 
 
