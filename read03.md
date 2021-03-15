@@ -57,8 +57,11 @@
 ## Change Inline/Block:
 ### display :The display property allows you to turn an inline element into a block-level element or vice versa, and can also be used to hide an element from the page. The values this property can take are:
 **inline** :This causes a block-level element to act like an inline element.
+
 **block**: This causes an inline element to act like a block-level element.
+
 **inline-block**: This causes a block-level element to flow like an inline element, while retaining other features of a block-level element.
+
 **none**: This hides an element from the page. In this case, the element acts as though it is not on the page at all (although a user could still see the content of the box if they used the view source option in their browser).
 
 
