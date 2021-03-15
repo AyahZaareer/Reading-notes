@@ -48,5 +48,6 @@
 
 ## Overflowing Content:
 ### The overflow property tells the browser what to do if the content contained within a box is larger than the box itself. It can have one of two values:
-** hidden ** : This property simply hides any extra content that does not fit in the box.
-** scroll **: This property adds a scrollbar to the box so that users can scroll to see the missing content. On the left, you can see two boxes whose contents expand beyond their set dimensions. The first example has the overflow property with a value of hidden. The second example has the overflow property
+**hidden** : This property simply hides any extra content that does not fit in the box.
+
+**scroll**: This property adds a scrollbar to the box so that users can scroll to see the missing content. On the left, you can see two boxes whose contents expand beyond their set dimensions. The first example has the overflow property with a value of hidden. The second example has the overflow property
