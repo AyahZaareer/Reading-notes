@@ -44,3 +44,13 @@
   **position:static:**  In normal flow, each block-level element sits on top of the next one. Since this is the default way in which browsers treat HTML elements, you do not need a CSS property to indicate that elements should appear in normal flow, but the syntax would be:
 **position: static;**
 I have not specified a width property for the heading element, so you can see how it stretches the width of the entire browser window by default.
+![image](https://user-images.githubusercontent.com/79833733/111378351-614e0f00-86aa-11eb-861b-8572168ab897.png)
+
+## Relative Positioning:
+**position:relative:** Relative positioning moves an element in relation to where it would have been in normal flow. For example, you can move it 10 pixels lower than it would have been in normal flow or 20% to the right.
+![image](https://user-images.githubusercontent.com/79833733/111378661-cd307780-86aa-11eb-8e57-9b8299e42d80.png)
+
+## Absolute Positioning:
+**position:absolute:** When the position property is given a value of absolute, the box is taken out of normal flow and no longer affects the position of other elements on the page. (They act like it is not there.) .The box offset properties (top or bottom and left or right) specify where the element should appear in relation to its containing element.
+![image](https://user-images.githubusercontent.com/79833733/111378912-2d271e00-86ab-11eb-9e85-aa0c9171c7db.png)
+
