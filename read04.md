@@ -61,3 +61,16 @@ I have not specified a width property for the heading element, so you can see ho
 
 ![image](https://user-images.githubusercontent.com/79833733/111378912-2d271e00-86ab-11eb-9e85-aa0c9171c7db.png)
 
+## Floating Elements:
+**float:** The float property allows you to take an element in normal flow and place it as far to the left or right of the containing element as possible. Anything else that sits inside the containing element will flow around the element that is floated.
+
+
+![image](https://user-images.githubusercontent.com/79833733/111379410-c6eecb00-86ab-11eb-8cba-39e636294576.png)
+
+# Screen Sizes:
+## Different visitors to your site will have different sized screens that show different amounts of information, so your design needs to be able to work on a range of different sized screens.
+# Screen Resolution:
+## Resolution refers to the number of dots a screen shows per inch. Some devices have a higher resolution than desktop computers and most operating systems allow users to adjust the resolution of their screens.
+# Page Sizes:
+## Because screen sizes and display resolutions vary so much, web designers often try to create pages of around 960-1000 pixels wide (since most users will be able to see designs this wide on their screens).
+
