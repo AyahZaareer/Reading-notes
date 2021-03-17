@@ -25,7 +25,7 @@
 3. in the middle of a paragraph: The image is placed between the words of the paragraph that it appears in.
 
 
-![image](https://user-images.githubusercontent.com/79833733/111529848-4db6ad00-876b-11eb-8d9a-30ee620aea37.png)  ![image](https://user-images.githubusercontent.com/79833733/111529958-6fb02f80-876b-11eb-9c6f-9d138ecd08c2.png)
+![image](https://user-images.githubusercontent.com/79833733/111529848-4db6ad00-876b-11eb-8d9a-30ee620aea37.png)                   ![image](https://user-images.githubusercontent.com/79833733/111529958-6fb02f80-876b-11eb-9c6f-9d138ecd08c2.png)
 
 
 
