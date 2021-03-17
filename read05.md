@@ -30,5 +30,14 @@
 
 
 
+## Old Code: Aligning Images Horizontally:
+**align:**  The align attribute was commonly used to indicate how the other parts of a page should flow around an image. It has been removed from HTML5 and new websites should use CSS to control the alignment of images:
+**left:**
+This aligns the image to the left (allowing text to flow around its right-hand side).
+
+**right:** 
+This aligns the image to the right (allowing text to flow around its left-hand side).
+
+
 
 
