@@ -116,3 +116,39 @@ For example: #ee3e80
  
  
  ![image](https://user-images.githubusercontent.com/79833733/111538505-7348b400-8775-11eb-8a29-1d8285d292c5.png)
+ 
+ 
+ 
+ ## hsl, hsla: The hsl color property has been introduced in CSS3 as an alternative way to specify colors. The value of the property starts with the letters hsl, followed by individual values inside parentheses for:
+
+**hue**
+ This is expressed as an angle (between 0 and 360 degrees).
+
+**saturation**
+  This is expressed as a percentage.
+
+**lightness**
+ This is expressed as a percentage with 0% being white, 50% being normal, and 100% being black. The hsla color property allows you to specify color properties using hue, saturation, and lightness as above, and adds a fourth value which represents transparency (just like the rgba property). The a stands for:
+
+**alpha**
+ This is expressed as a number between 0 and 1.0. For example, 0.5 represents 50% transparency, and 0.75
+represents 75% transparency.
+
+# Text:
+## Specifying Typefaces:
+
+**font-family** The font-family property allows you to specify the typeface that should be used for any text inside the element(s) to which a CSS rule applies. The value of this property is the name of the typeface you want to use.
+
+![image](https://user-images.githubusercontent.com/79833733/111541410-22d35580-8779-11eb-94d3-3e521259f2f8.png)           ![image](https://user-images.githubusercontent.com/79833733/111541466-34b4f880-8779-11eb-8274-68a41ae0e452.png)
+
+## Size of Type:
+**font-size** The font-size property enables you to specify a size for the font. There are several ways to specify the size of a font. The most common are:
+
+**pixels**
+ Pixels are commonly used because they allow web designers very precise control over how much space their text takes up. The number of pixels is followed by the letters px.
+ 
+**percentages**
+ The default size of text in browsers is 16px. So a size of 75% would be the equivalent of 12px, and 200% would be 32px.
+ 
+**ems**
+ An em is equivalent to the width of a letter m.
