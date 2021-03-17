@@ -58,6 +58,6 @@ This aligns the first line of the surrounding text with the bottom of the image.
 
 #                                     Three Rules for Creating Images
 
-          ![image](https://user-images.githubusercontent.com/79833733/111532783-b6ebef80-876e-11eb-87c6-e70befa5ef5f.png)
+   ![image](https://user-images.githubusercontent.com/79833733/111532783-b6ebef80-876e-11eb-87c6-e70befa5ef5f.png)
 
 
