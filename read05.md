@@ -61,3 +61,9 @@ This aligns the first line of the surrounding text with the bottom of the image.
    ![image](https://user-images.githubusercontent.com/79833733/111532783-b6ebef80-876e-11eb-87c6-e70befa5ef5f.png)
 
 
+ ### Whenever you have many differentcolors in a picture you should use a JPEG.
+A photograph that features snow or an
+overcast sky might look like it has large
+areas that are just white or gray, but the
+picture is usually made up of many different
+colors that are subtly different.            ![image](https://user-images.githubusercontent.com/79833733/111533176-2b269300-876f-11eb-86d8-3a135406f848.png)
