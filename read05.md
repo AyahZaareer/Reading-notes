@@ -53,3 +53,11 @@ This aligns the first line of the surrounding text with the middle of the image.
 **bottom:**
 This aligns the first line of the surrounding text with the bottom of the image.
 
+
+![image](https://user-images.githubusercontent.com/79833733/111531588-6627c700-876d-11eb-9df6-9312b1ce5caa.png)                     ![image](https://user-images.githubusercontent.com/79833733/111531673-86578600-876d-11eb-8132-6242f0e29514.png)
+
+#                                     Three Rules for Creating Images
+
+          ![image](https://user-images.githubusercontent.com/79833733/111532783-b6ebef80-876e-11eb-87c6-e70befa5ef5f.png)
+
+
