@@ -61,9 +61,58 @@ This aligns the first line of the surrounding text with the bottom of the image.
    ![image](https://user-images.githubusercontent.com/79833733/111532783-b6ebef80-876e-11eb-87c6-e70befa5ef5f.png)
 
 
- ### Whenever you have many differentcolors in a picture you should use a JPEG.
-A photograph that features snow or an
-overcast sky might look like it has large
-areas that are just white or gray, but the
-picture is usually made up of many different
-colors that are subtly different.            ![image](https://user-images.githubusercontent.com/79833733/111533176-2b269300-876f-11eb-86d8-3a135406f848.png)
+ ### Whenever you have many differentcolors in a picture you should use a **JPEG**. A photograph that features snow or an overcast sky might look like it has large areas that are just white or gray, but the picture is usually made up of many different colors that are subtly different.            
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/79833733/111533553-940e0b00-876f-11eb-99b4-06c5a856976a.png)
+ 
+ 
+ ### Use **GIF** or **PNG** format when saving images with few colors or large areas of the same color.
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/79833733/111533879-f830cf00-876f-11eb-8abd-f49a2b5b9431.png)
+ 
+ 
+ ### **Cropping Images:**When cropping images it is important not to lose valuable information. It is best to source images that are the correct shape if possible.
+
+ ![image](https://user-images.githubusercontent.com/79833733/111534223-6b3a4580-8770-11eb-9b89-9e8d426ee95f.png)
+
+## HTML5: Figure and Figure Caption:
+
+**< figure>:** Images often come with captions. HTML5 has introduced a new < figure> element to contain images and their caption so that the two are associated. You can have more than one image inside the < figure> element as long as they all share the same caption.
+
+**< figcaption>:** The < figcaption> element has been added to HTML5 in order to allow web page authors to add a caption to an image. Before these elements were created there was no way to associate an <img> element with its caption.
+
+  ![image](https://user-images.githubusercontent.com/79833733/111536347-d127cc80-8772-11eb-9ec0-4a82177133d0.png)
+  
+  
+  # Color:
+  ## Foreground Color:The color property allows you to specify the color of text inside an element. You can specify any color in CSS in one of three ways:
+  **rgb values:**  These express colors in terms of how much red, green and blue are used to make it up
+                    For example: rgb(100,100,90)
+
+**hex codes:** These are six-digit codes that represent the amount of red, green and blue in a color, preceded by a pound or hash # sign.
+For example: #ee3e80
+
+**color names:**  There are 147 predefined color names that are recognized by browsers. For example: DarkCyan
+
+
+![image](https://user-images.githubusercontent.com/79833733/111537066-ae49e800-8773-11eb-9399-c42aaafea4ce.png)
+
+
+
+## Background Color:
+
+**background-color:** CSS treats each HTML element as if it appears in a box, and the background-color property sets the color of the background for that box.
+
+  ![image](https://user-images.githubusercontent.com/79833733/111537394-0d0f6180-8774-11eb-9371-45f1d187b824.png)
+
+ ## opacity:
+ ### CSS3 introduces the opacity property which allows you to specify the opacity of an element and any of its child elements. The value is a number between 0.0 and 1.0 (so a value of 0.5 is 50% opacity and 0.15 is 15% opacity).
+ 
+ ##  rgba:
+ ### The CSS3 rgba property allowsyou to specify a color, just likeyou would with an RGB value, but adds a fourth value to indicate opacity. This value is known as an alpha value and is a number between 0.0 and 1.0 (so a value of 0.5 is 50% opacity and 0.15 is 15% opacity). The rgba value will only affect the element on which it is applied (not child elements).
+ 
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/79833733/111538505-7348b400-8775-11eb-8a29-1d8285d292c5.png)
