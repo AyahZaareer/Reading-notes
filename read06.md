@@ -83,6 +83,22 @@
 
 ![image](https://user-images.githubusercontent.com/79833733/111817864-36043380-88e7-11eb-914d-9711b1a12792.png)
 
+## REMOVING AN ELEMENT FROM THE DOM TREE:
+### This example uses the removeCh i 1 d () method to remove the fourth item from the list (along with its contents).The first variable, removeEl, stores the actual element you want to remove from the page (the fourth list item).The second variable, containerEl, stores the <u 1 > element that contains the element you want to remove.
+
+![image](https://user-images.githubusercontent.com/79833733/111818280-a9a64080-88e7-11eb-9fdb-ddace6a26831.png)
+
+
+# CROSS-SITE SCRIPTING (XSS) ATTACKS:
+### If you add HTML to a page using i nnerHTML (or several jQuery methods), you need to be aware of Cross-Site Scripting Attacks or XSS; otherwise, an attacker could gain access to your users' accounts.
+
+## HOW XSS HAPPENS:
+### XSS involves an attacker placing malicious code into a site. Websites often feature content created bymany different people. For example:
+-Users can create profiles or add comments.
+- Multiple authors may contribute articles
+- Data can come from third-party sites such as Facebook, Twitter, news tickers, and other feeds
+- Files such as images and video may be uploaded
+
 
 
 
