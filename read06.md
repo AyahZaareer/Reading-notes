@@ -52,6 +52,38 @@
 ![image](https://user-images.githubusercontent.com/79833733/111816186-356a9d80-88e5-11eb-95ac-3269381242dd.png)
 
 
+# WHITESPACE NODES:
+### Traversing the DOM can be difficult because some browsers add a text node whenever they come across whitespace between elements.
+
+![image](https://user-images.githubusercontent.com/79833733/111816666-c477b580-88e5-11eb-89ce-57c5e5d9d37d.png)
+
+## PREVIOUS & NEXT SIBLING:
+
+
+![image](https://user-images.githubusercontent.com/79833733/111816828-f852db00-88e5-11eb-910f-58df15d9c9ea.png)
+
+
+## FlRST & LAST CHILD:
+
+
+![image](https://user-images.githubusercontent.com/79833733/111816950-16b8d680-88e6-11eb-996a-14d70078b9bf.png)
+
+
+## HOW TO GET/UPDATE ELEMENT CONTENT:
+
+![image](https://user-images.githubusercontent.com/79833733/111817122-4b2c9280-88e6-11eb-8c4d-f217d1006e51.png)
+
+
+### ACCESS & UPDATE A TEXT NODE WITH NODEVALUE:When you select a text node, you can retrieve or amend the content of it using the node Va 1 ue property.
+
+![image](https://user-images.githubusercontent.com/79833733/111817302-8929b680-88e6-11eb-8bd7-39f9f8acb3da.png)
+
+## ADDING AN ELEMENT TO THE DOM TREE:
+### createEl ement () creates an element that can be added to the DOM tree, in this case an empty < li >element for the list.This new element is stored inside a variable called newEl until it is attached to the DOM tree later on.createTextNode() allows you to create a new text node to attach to an element. It is stored in a variable called newText.
+
+![image](https://user-images.githubusercontent.com/79833733/111817864-36043380-88e7-11eb-914d-9711b1a12792.png)
+
+
 
 
 
