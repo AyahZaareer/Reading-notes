@@ -94,7 +94,7 @@
 
 ## HOW XSS HAPPENS:
 ### XSS involves an attacker placing malicious code into a site. Websites often feature content created bymany different people. For example:
--Users can create profiles or add comments.
+- Users can create profiles or add comments.
 - Multiple authors may contribute articles
 - Data can come from third-party sites such as Facebook, Twitter, news tickers, and other feeds
 - Files such as images and video may be uploaded
