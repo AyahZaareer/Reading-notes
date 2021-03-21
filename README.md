@@ -10,4 +10,4 @@
 | Read 4                          |  [clike her](https://ayahzaareer.github.io/reading2/read04)            |
 | Read 5                          |  [clike her](https://ayahzaareer.github.io/reading2/read05)            |
 | Read 6                          |  [clike her](https://ayahzaareer.github.io/reading2/read06)            |
-| Read 7                          |  [clike hre[(https://ayahzaareer.github.io/reading2/read07)            |
+| Read 7                          |  [clike hre](https://ayahzaareer.github.io/reading2/read07)            |
