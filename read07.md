@@ -145,5 +145,34 @@ heading.
 ![image](https://user-images.githubusercontent.com/79833733/111922065-896db180-8aa0-11eb-9923-86be3064d00f.png)
 
 
+## WHAT ARE BUILT-IN OBJECTS?
+
+### Browsers come with a set of built-in objects that represent things like the browser window and the current web page shown in that window. These built-in objects act like a toolkit for creating interactive web pages.
+
+### The first thing you need to do is get to know what tools are available. You can imagine that your new toolkit has three compartments:
+
+
+![image](https://user-images.githubusercontent.com/79833733/111922262-87582280-8aa1-11eb-9428-2be4b4042073.png)
+
+
+
+
+## OBJECT MODEL: THE WINDOW OBJECT
+
+### The window object represents the current browser window or tab. It is the topmost object in the Browser Object Model, and it contains other objects that tell you about the browser.
+
+
+
+
+![image](https://user-images.githubusercontent.com/79833733/111922321-cc7c5480-8aa1-11eb-8940-85075dfc26bb.png)
+
+
+
+## USING THE BROWSER OBJECT MODEL
+
+### Here, data about the browser is collected from the window object and its children, stored in the msg variable, and shown in the page. The+= operator adds data onto the end of the msg variable.
+
+
+![image](https://user-images.githubusercontent.com/79833733/111922371-136a4a00-8aa2-11eb-98bd-8d0a00efbd88.png)
 
 
