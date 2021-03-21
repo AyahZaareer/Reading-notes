@@ -35,7 +35,7 @@ closing </td> tag.
 ## Table Headings:
 **< th>**
 
-The <th> element is used just
+The < th> element is used just
 like the <td> element but its
 purpose is to represent the
 heading for either a column or
@@ -52,12 +52,17 @@ heading.
 ## Spanning Rows:
 ### You may also need entries in a table to stretch down across more than one row. The rowspan attribute can be used on a < th> or < td> element to indicate how many rows a cell should span down the table.
 
+
+
 ![image](https://user-images.githubusercontent.com/79833733/111921360-d0f23e80-8a9c-11eb-8d12-3679eff8ca06.png)
+
+
+
 
 ## Long Tables:
 ### There are three elements that help distinguish between the main content of the table and the first and last rows (which can contain different content). These elements help people who use screen readers and also allow you to style these sections in a different manner than the rest of the table .
 
-**< thead>** The headings of the table should sit inside the <thead> element.
+**< thead>** The headings of the table should sit inside the < thead> element.
 
 **< tbody>** The body should sit inside the  < tbody> element.
 
@@ -67,9 +72,16 @@ heading.
 
 
 
+
+
 ## Old Code: Width & Spacing
 
 ![image](https://user-images.githubusercontent.com/79833733/111921522-b8ceef00-8a9d-11eb-9077-15cb072dc3b0.png)     ![image](https://user-images.githubusercontent.com/79833733/111921536-c8e6ce80-8a9d-11eb-80f5-ca032c2b1d8a.png)
+
+
+
+
+
 
 
 
