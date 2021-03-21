@@ -5,7 +5,7 @@
 
 **< table>**
 
-The <table> element is used
+The < table> element is used
 to create a table. The contents
 of the table are written out row
 by row.
@@ -62,13 +62,23 @@ heading.
 ## Long Tables:
 ### There are three elements that help distinguish between the main content of the table and the first and last rows (which can contain different content). These elements help people who use screen readers and also allow you to style these sections in a different manner than the rest of the table .
 
+
 **< thead>** The headings of the table should sit inside the < thead> element.
+
 
 **< tbody>** The body should sit inside the  < tbody> element.
 
+
 **< tfoot>** The footer belongs inside the < tfoot> element.
 
-![image](https://user-images.githubusercontent.com/79833733/111921465-6ab9eb80-8a9d-11eb-80db-8fa0f5bc130f.png)     ![image](https://user-images.githubusercontent.com/79833733/111921478-7c02f800-8a9d-11eb-9507-1889b0ada56a.png)
+
+
+![image](https://user-images.githubusercontent.com/79833733/111921465-6ab9eb80-8a9d-11eb-80db-8fa0f5bc130f.png)    
+
+
+
+
+![image](https://user-images.githubusercontent.com/79833733/111921478-7c02f800-8a9d-11eb-9507-1889b0ada56a.png)
 
 
 
@@ -76,7 +86,16 @@ heading.
 
 ## Old Code: Width & Spacing
 
-![image](https://user-images.githubusercontent.com/79833733/111921522-b8ceef00-8a9d-11eb-9077-15cb072dc3b0.png)     ![image](https://user-images.githubusercontent.com/79833733/111921536-c8e6ce80-8a9d-11eb-80f5-ca032c2b1d8a.png)
+
+
+
+![image](https://user-images.githubusercontent.com/79833733/111921522-b8ceef00-8a9d-11eb-9077-15cb072dc3b0.png)    
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/79833733/111921536-c8e6ce80-8a9d-11eb-80f5-ca032c2b1d8a.png)
 
 
 
@@ -87,7 +106,15 @@ heading.
 
 ## Old Code: Border & Background
 
-![image](https://user-images.githubusercontent.com/79833733/111921567-ee73d800-8a9d-11eb-8974-d040518b8992.png)       ![image](https://user-images.githubusercontent.com/79833733/111921585-00557b00-8a9e-11eb-8978-d92f62ac083d.png)
+
+
+
+![image](https://user-images.githubusercontent.com/79833733/111921567-ee73d800-8a9d-11eb-8974-d040518b8992.png)    
+
+
+
+
+![image](https://user-images.githubusercontent.com/79833733/111921585-00557b00-8a9e-11eb-8978-d92f62ac083d.png)
 
 
 
