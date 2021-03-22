@@ -119,6 +119,16 @@ This creates a gap between the columns.
    
    # Screen Sizes:
    
+   ### Different visitors to your site will have different sized screens that show different amounts of information, so your design needs to be able to work on a range of different sized screens.
+   
+   ![image](https://user-images.githubusercontent.com/79833733/112051558-bf6f6c00-8b5a-11eb-9506-156b6af24240.png)
+   
+   
+   
+   ## Page Sizes:
+ ###  Because screen sizes and display resolutions vary so much, web designers often try to create pages of around 960-1000 pixels wide (since most users will be able to see designs this wide on their screens).
+
+   
 
 
 
