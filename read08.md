@@ -47,5 +47,69 @@ control how much space each box takes up by setting the width of the boxes (and 
 
 ![image](https://user-images.githubusercontent.com/79833733/112047554-2179a280-8b56-11eb-819e-81f726d0a620.png)
 
+## Floating Elements:
+
+### The float property allows you to take an element in normal flow and place it as far to the left or right of the containing element as possible. Anything else that sits inside the containing element will flow around the element that is floated.
+
+
+![image](https://user-images.githubusercontent.com/79833733/112048366-ff345480-8b56-11eb-968f-244ce465e205.png)
+
+
+## Using Float to Place Elements Side-by-Side:
+
+### A lot of layouts place boxes next to each other. The float property is commonly used to achieve this. When elements are floated, the height of the boxes can affect where the following elements sit. In this example, you can see six paragraphs, each of which has a width and a float property set.
+
+![image](https://user-images.githubusercontent.com/79833733/112050066-170cd800-8b59-11eb-9d83-3746e912407b.png)
+
+
+### Clearing Floats: 
+
+#### clear :The clear property allows you to say that no element (within the same containing element) should touch the left or righthand sides of a box. It can take the following values:
+
+**left**
+
+The left-hand side of the box
+should not touch any other
+elements appearing in the same
+containing element.
+
+**right**
+
+The right-hand side of the
+box will not touch elements
+appearing in the same containing
+element.
+
+**both**
+
+Neither the left nor right-hand
+sides of the box will touch
+elements appearing in the same
+containing element.
+
+**none**
+
+Elements can touch either side.
+
+
+![image](https://user-images.githubusercontent.com/79833733/112050558-ac0fd100-8b59-11eb-8351-f13284d78e5d.png)
+
+
+## Creating Multi-Column Layouts with Floats:
+
+### Many web pages use multiple columns in their design. This is achieved by using a < div> element to represent each column. The following three CSS properties are used to position the columns next to each other:
+
+**width**                                        ![image](https://user-images.githubusercontent.com/79833733/112051128-3e17d980-8b5a-11eb-8aa8-a888fe1c9c87.png)
+
+
+This sets the width of the columns. 
+
+**float**
+
+This positions the columns next to each other.
+
+**margin**
+
+This creates a gap between the columns.
 
 
