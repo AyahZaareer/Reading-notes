@@ -99,7 +99,7 @@ Elements can touch either side.
 
 ### Many web pages use multiple columns in their design. This is achieved by using a < div> element to represent each column. The following three CSS properties are used to position the columns next to each other:
 
-**width**                                        ![image](https://user-images.githubusercontent.com/79833733/112051128-3e17d980-8b5a-11eb-8aa8-a888fe1c9c87.png)
+**width**                                     
 
 
 This sets the width of the columns. 
@@ -111,5 +111,14 @@ This positions the columns next to each other.
 **margin**
 
 This creates a gap between the columns.
+
+   ![image](https://user-images.githubusercontent.com/79833733/112051128-3e17d980-8b5a-11eb-8aa8-a888fe1c9c87.png)          ![image](https://user-images.githubusercontent.com/79833733/112051327-78817680-8b5a-11eb-810e-815a6556d002.png)
+   
+   
+   
+   
+   # Screen Sizes:
+   
+
 
 
