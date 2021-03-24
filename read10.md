@@ -43,5 +43,11 @@
 
 ![image](https://user-images.githubusercontent.com/79833733/112393987-9ab6f800-8d04-11eb-9d4e-b7ebea9ad7b6.png)
 
+### A DEBUGGING WORKFLOW:
+**Debugging is about deduction: eliminating potential causes of an error. Here is a workflow for techniques you will meet over the next 20 pages. Try to narrow down where the problem might be, then look for clues.**
+
+![image](https://user-images.githubusercontent.com/79833733/112394169-ed90af80-8d04-11eb-9a17-e0a5425651ac.png)
+
+
 
 
