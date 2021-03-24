@@ -22,4 +22,26 @@
 ## UNDERSTANDING SCOPE:
 #### In the interpreter, each execution context has its own va ri ables object. It holds the variables, functions, and parameters available within it. Each execution context can also access its parent's v a ri ables object. 
 
-#### Functions in JavaScript are said to have lexical scope.  They are linked to the object they were defined within.  So, for each execution context, the scope is the  current execution context's variables object, plus the  variables object for each parent execution context
+#### Functions in JavaScript are said to have lexical scope.  They are linked to the object they were defined within.  So, for each execution context, the scope is the  current execution context's variables object, plus the  variables object for each parent execution context.
+
+## ERROR OBJECTS :
+
+![image](https://user-images.githubusercontent.com/79833733/112393488-d1d8d980-8d03-11eb-92e3-d9eed5b3095b.png)
+
+
+#### ERROR OBJECTS CONTINUED:
+
+![image](https://user-images.githubusercontent.com/79833733/112393585-ffbe1e00-8d03-11eb-8698-a1a0b7cda9d8.png)
+
+**hese two pages show JavaScript's seven different types of error objects  and some common examples of the kinds of errors you are likely to see. As you can tell, the errors shown by the browsers can be rather cryptic**
+
+
+![image](https://user-images.githubusercontent.com/79833733/112393806-51ff3f00-8d04-11eb-8c23-c9dbd97d56bc.png)
+
+
+### HOW TO DEAL WITH  ERRORS :
+
+![image](https://user-images.githubusercontent.com/79833733/112393987-9ab6f800-8d04-11eb-9d4e-b7ebea9ad7b6.png)
+
+
+
