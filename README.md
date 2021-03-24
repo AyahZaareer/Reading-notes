@@ -13,3 +13,4 @@
 | Read 7                          |  [clike hre](https://ayahzaareer.github.io/reading2/read07)            |
 | Read 8                          |  [clike her](https://ayahzaareer.github.io/reading2/read08)            |
 | Read 9                          | [clike her ](https://ayahzaareer.github.io/reading2/read09)            |
+| Read 10                         | [click her](https://ayahzaareer.github.io/reading2/read10)             |
