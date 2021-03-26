@@ -134,7 +134,31 @@ The description also lives inside the <head> element and is specified using a <m
 
 ### **WEB Hosting:** So that other people can see your site, you will need to upload it to a web server. Web servers are special computers that are constantly connected to the Internet. They are specially set up to serve web pages when they are requested.With the exception of some very large sites, most websites live on web servers run by web hosting companies. This is usually far cheaper and more reliable than trying to run your own web servers.There are lots of different types of hosting on offer. We will now take a look at some of the key things that will help you choose which hosting company to use.
 
+## FTP & Third Party Tools:
+### To transfer your code and images from your computer to your hosting company, you use something known as **File Transfer Protocol.**
+### As the name suggests, File Transfer Protocol (or FTP) allows you to transfer files across the Internet from your computer to the web server hosting your site
 
+#### Here is a list of some popular FTP applications:
+**FileZilla**
 
+filezilla-project.org 
+Windows, Mac, Linux
 
+**FireFTP**
+
+fireftp.mozdev.org
+Windows, Mac, Linux
+
+**CuteFTP**
+cuteftp.com 
+Windows, Mac
+
+**SmartFTP**
+smartftp.com
+WIndows
+
+**Transmit**
+
+panic.com/transmit
+Mac
 
