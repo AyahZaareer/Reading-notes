@@ -83,6 +83,58 @@ The background image moves up and down as the user scrolls up and down the page.
 #### CSS3 will also support the use of multiple background images by repeating the background shorthand. Because few browsers supported this property at the time of writing, it was not commonly used.
 
 
+# Practical Information:
+## Search Engine Optimization (SEO):
+
+![image](https://user-images.githubusercontent.com/79833733/112697869-8a845180-8e99-11eb-8839-2b68b5a1e244.png)
+
+## On-Page SEO:
+### In every page of your website there are seven key places where keywords (the words people might search on to find your site) can appear in order to improve its findability.
+
+**1: Page Title**
+The page title appears at the top  of the browser window or on the  tab of a browser. It is specified in the <title> element which lives inside the <head> element.
+
+**2:URL  Web Address**
+The name of the file is part of the URL. Where possible, use keywords in the file name.
+
+**3: Headings**
+
+If the keywords are in a heading 
+<hn> element then a search 
+engine will know that this page is 
+all about that subject and give it 
+greater weight than other text.
+
+**4: Text**
+Where possible, it helps to repeat the keywords in the main body of the text at least 2-3 times. Do not, however, over-use these terms, because the text must be easy for a human to read.
+
+**5: Link Text**
+Use keywords in the text that create links between pages (rather than using generic expressions such as "click here").
+
+**6: Image Alt Text**
+
+Search engines rely on you providing accurate descriptions of images in the alt text. This will also help your images show up in the results of image-based searches
+
+**7: Page Descriptions**
+The description also lives inside the <head> element and is specified using a <meta> tag. It should be a sentence that describes the content of the page. (These are not shown in the browser window but they may be displayed in the results pages of search engines.)
+
+![image](https://user-images.githubusercontent.com/79833733/112698322-79881000-8e9a-11eb-8a9e-54bc3203547a.png)
+
+
+## How to Identify Keywords and Phrases:
+
+![image](https://user-images.githubusercontent.com/79833733/112698439-b94ef780-8e9a-11eb-816b-244cb77ac725.png)
+
+
+![image](https://user-images.githubusercontent.com/79833733/112698469-c9ff6d80-8e9a-11eb-86a4-3dbd16493b4f.png)
+
+## Domain Names & Hosting:
+
+### **DOMAIN NAMES :** Your domain name is your web address (e.g. google.com or bbc.co.uk). There are many websites that allow you to register domain names. Usually you will have to pay an annual fee to keep that domain name.These sites usually have a form that allows you to check whether your preferred domain name is available, and because millions of domain names have already been registered, it might take you a while to find the one that is right for your site.A lot of sites that offer domain name registration also offer web hosting.
+
+### **WEB Hosting:** So that other people can see your site, you will need to upload it to a web server. Web servers are special computers that are constantly connected to the Internet. They are specially set up to serve web pages when they are requested.With the exception of some very large sites, most websites live on web servers run by web hosting companies. This is usually far cheaper and more reliable than trying to run your own web servers.There are lots of different types of hosting on offer. We will now take a look at some of the key things that will help you choose which hosting company to use.
+
+
 
 
 
