@@ -22,6 +22,9 @@
 
 ### There are also methods for removing the value for a given named key, and clearing the entire storage area (that is, deleting all the keys and values at once).
 
+![image](https://user-images.githubusercontent.com/79833733/112885232-2ea80b80-90d9-11eb-89ab-08ab39428dfb.png)
+
+
 ![image](https://user-images.githubusercontent.com/79833733/112867706-e7635000-90c3-11eb-923a-4c8c9181ffd3.png)
 
 ## TRACKING CHANGES TO THE HTML5 STORAGE AREA
