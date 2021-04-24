@@ -25,3 +25,16 @@
 ### Instead of artificially separating technologies by putting markup and logic in separate files, React separates concerns with loosely coupled units called “components” that contain both. We will come back to components in a further section, but if you’re not yet comfortable putting markup in JS, this talk might convince you otherwise.
 
 ### React doesn’t require using JSX, but most people find it helpful as a visual aid when working with UI inside the JavaScript code. It also allows React to show more useful error and warning messages.
+
+### Embedding Expressions in JSX:
+### In the example below, we declare a variable called name and then use it inside JSX by wrapping it in curly braces:
+
+
+![image](https://user-images.githubusercontent.com/79833733/115965221-c65e1580-a530-11eb-9500-b8024a4ce73e.png)
+
+### You can put any valid JavaScript expression inside the curly braces in JSX. For example, 2 + 2, user.firstName, or formatName(user) are all valid JavaScript expressions.
+
+### In the example below, we embed the result of calling a JavaScript function, formatName(user), into an < h1> element.
+
+![image](https://user-images.githubusercontent.com/79833733/115965256-fb6a6800-a530-11eb-9882-9e06396905cd.png)
+
