@@ -48,3 +48,16 @@
 ### Specifying Children with JSX:
 ![image](https://user-images.githubusercontent.com/79833733/115970888-1dbeae80-a54e-11eb-839d-139a80bd820b.png)
 
+### Rendering an Element into the DOM:
+![image](https://user-images.githubusercontent.com/79833733/115973495-11425200-a55e-11eb-9039-9e4e0acb3a2d.png)
+
+We call this a “root” DOM node because everything inside it will be managed by React DOM.
+
+### Applications built with just React usually have a single root DOM node. If you are integrating React into an existing app, you may have as many isolated root DOM nodes as you like.
+
+### To render a React element into a root DOM node, pass both to ReactDOM.render():
+
+![image](https://user-images.githubusercontent.com/79833733/115973561-9c234c80-a55e-11eb-8a19-4bee63b80728.png)
+
+
+
