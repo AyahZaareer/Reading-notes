@@ -38,3 +38,13 @@
 
 ![image](https://user-images.githubusercontent.com/79833733/115965256-fb6a6800-a530-11eb-9882-9e06396905cd.png)
 
+### JSX is an Expression Too:
+### After compilation, JSX expressions become regular JavaScript function calls and evaluate to JavaScript objects.
+
+### This means that you can use JSX inside of if statements and for loops, assign it to variables, accept it as arguments, and return it from functions:
+
+![image](https://user-images.githubusercontent.com/79833733/115970814-9a04c200-a54d-11eb-9f2e-5a977585b4db.png)
+
+### Specifying Children with JSX:
+![image](https://user-images.githubusercontent.com/79833733/115970888-1dbeae80-a54e-11eb-839d-139a80bd820b.png)
+
