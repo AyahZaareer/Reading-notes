@@ -51,7 +51,7 @@
 ### Rendering an Element into the DOM:
 ![image](https://user-images.githubusercontent.com/79833733/115973495-11425200-a55e-11eb-9039-9e4e0acb3a2d.png)
 
-We call this a “root” DOM node because everything inside it will be managed by React DOM.
+### We call this a “root” DOM node because everything inside it will be managed by React DOM.
 
 ### Applications built with just React usually have a single root DOM node. If you are integrating React into an existing app, you may have as many isolated root DOM nodes as you like.
 
