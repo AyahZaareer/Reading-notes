@@ -11,7 +11,7 @@
 #### Mounting
 #### These methods are called in the following order when an instance of a component is being created and inserted into the DOM:
 
-**constructor()**
+.**constructor()**
 
 **static getDerivedStateFromProps()**
 
