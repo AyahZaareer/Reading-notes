@@ -28,21 +28,21 @@
 ### Table Of Contents
 | content      | link                                                            |
 | -----------  | ----------------------------------------------------------------|
-| class 1     |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class1)|
-| class 2     |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class2)|
-|      |[Click HERE]()|
-|      |[Click HERE]()|
-|      |[Click HERE]()|
-|      |[Click HERE]()|
-|      |[Click HERE]()|
-|      |[Click HERE]()|
-|      |[Click HERE]()|
-|      |[Click HERE]()|
-|      |[Click HERE]()|
-|      |[Click HERE]()|
-|      |[Click HERE]()|
-|      |[Click HERE]()|
-|      |[Click HERE]()|
+| class 1      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class1) |
+| class 2      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class2) |
+|              |[Click HERE]()                                                   |
+|              |[Click HERE]()|
+|              |[Click HERE]()|
+|              |[Click HERE]()|
+|              |[Click HERE]()|
+|              |[Click HERE]()|
+|              |[Click HERE]()|
+|              |[Click HERE]()|
+|              |[Click HERE]()|
+|              |[Click HERE]()|
+|              |[Click HERE]()|
+|              |[Click HERE]()|
+|              |[Click HERE]()|
 
 
 
