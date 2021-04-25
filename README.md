@@ -29,7 +29,7 @@
 | content      | link                                                            |
 | -----------  | ----------------------------------------------------------------|
 | class 1     |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class1)|
-|      |[Click HERE]()|
+| class 2     |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class2)|
 |      |[Click HERE]()|
 |      |[Click HERE]()|
 |      |[Click HERE]()|
