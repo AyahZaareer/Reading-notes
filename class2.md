@@ -66,6 +66,18 @@
 
 ![image](https://user-images.githubusercontent.com/79833733/116013518-466fa280-a639-11eb-8755-bc4aa615d2ae.png)
 
+## Conditional Rendering:
+### In React, you can create distinct components that encapsulate behavior you need. Then, you can render only some of them, depending on the state of your application.
+
+### Conditional rendering in React works the same way conditions work in JavaScript. Use JavaScript operators like if or the conditional operator to create elements representing the current state, and let React update the UI to match them.
+
+#### Consider these two components:
+![image](https://user-images.githubusercontent.com/79833733/116013743-589e1080-a63a-11eb-8443-22cdac5f0536.png)
+
+#### We’ll create a Greeting component that displays either of these components depending on whether a user is logged in:
+![image](https://user-images.githubusercontent.com/79833733/116013764-79fefc80-a63a-11eb-93cf-006815ec7c46.png)
+
+
 
 
 
