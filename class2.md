@@ -32,3 +32,41 @@
 4-**getSnapshotBeforeUpdate()**
 
 5-**componentDidUpdate()**
+
+#### Unmounting
+#### This method is called when a component is being removed from the DOM:
+
+**componentWillUnmount()**
+
+## Handling Events:
+### Handling events with React elements is very similar to handling events on DOM elements. There are some syntax differences:
+
+1-**React events are named using camelCase, rather than lowercase.**
+
+2-**With JSX you pass a function as the event handler, rather than a string.**
+
+#### for example, the HTML:
+
+![image](https://user-images.githubusercontent.com/79833733/116013303-2390be80-a638-11eb-9f5d-33e551ecbd60.png)
+
+#### is slightly different in React:
+![image](https://user-images.githubusercontent.com/79833733/116013319-40c58d00-a638-11eb-8cc2-12ea070a856f.png)
+
+### Another difference is that you cannot return false to prevent default behavior in React. You must call preventDefault explicitly. For example, with plain HTML, to prevent the default link behavior of opening a new page, you can write:
+
+![image](https://user-images.githubusercontent.com/79833733/116013420-ca755a80-a638-11eb-8467-ae27ac735301.png)
+
+### In React, this could instead be:
+
+![image](https://user-images.githubusercontent.com/79833733/116013450-e842bf80-a638-11eb-81b8-5233568e6c9b.png)
+
+### When using React, you generally don’t need to call addEventListener to add listeners to a DOM element after it is created. Instead, just provide a listener when the element is initially rendered.
+
+### When you define a component using an ES6 class, a common pattern is for an event handler to be a method on the class. For example, this Toggle component renders a button that lets the user toggle between “ON” and “OFF” states:
+
+![image](https://user-images.githubusercontent.com/79833733/116013518-466fa280-a639-11eb-8755-bc4aa615d2ae.png)
+
+
+
+
+
