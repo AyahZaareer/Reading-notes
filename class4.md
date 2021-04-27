@@ -19,3 +19,21 @@
 
 ## Alternatives to Controlled Components
 ### It can sometimes be tedious to use controlled components, because you need to write an event handler for every way your data can change and pipe all of the input state through a React component. This can become particularly annoying when you are converting a preexisting codebase to React, or integrating a React application with a non-React library. In these situations, you might want to check out uncontrolled components, an alternative technique for implementing input forms.
+
+## The Conditional (Ternary) Operator:
+### First, we’ll take a look at the syntax of a typical if statement:
+
+### Now, the ternary operator:
+
+![image](https://user-images.githubusercontent.com/79833733/116322111-0c7ed780-a7c4-11eb-8104-8f4043922618.png)
+
+**1-The condition is what you’re actually testing. The result of your condition should be true or false or at least coerce to either boolean value.**
+
+**2-A ? separates our conditional from our true value. Anything between the ? and the : is what is executed if the condition evaluates to true.**
+
+**3-Finally a : colon. If your condition evaluates to false, any code after the colon is executed.**
+
+
+![image](https://user-images.githubusercontent.com/79833733/116321214-52d33700-a7c2-11eb-8e82-bc3dc446334e.png)
+
+
