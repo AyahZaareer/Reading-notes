@@ -22,6 +22,7 @@
 
 ## The Conditional (Ternary) Operator:
 ### First, we’ll take a look at the syntax of a typical if statement:
+![image](https://user-images.githubusercontent.com/79833733/116321214-52d33700-a7c2-11eb-8e82-bc3dc446334e.png)
 
 ### Now, the ternary operator:
 
@@ -34,6 +35,6 @@
 **3-Finally a : colon. If your condition evaluates to false, any code after the colon is executed.**
 
 
-![image](https://user-images.githubusercontent.com/79833733/116321214-52d33700-a7c2-11eb-8e82-bc3dc446334e.png)
+
 
 
