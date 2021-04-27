@@ -31,7 +31,7 @@
 | class 1      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class1) |
 | class 2      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class2) |
 | class 3      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class3) |
-|              |[Click HERE]()|
+| class 4      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class4)|
 |              |[Click HERE]()|
 |              |[Click HERE]()|
 |              |[Click HERE]()|
