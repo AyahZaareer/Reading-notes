@@ -16,3 +16,20 @@
 ### What is npm?
 #### NPM is a package manager for Node. js packages, or modules if you like. www.npmjs.com hosts thousands of free packages to download and use. The NPM program is installed on your computer when you install Node.js. NPM is already ready to run on your computer!
 
+
+### Installing a Package Globally:
+#### In the terminal ,type the following: 
+
+**npm install -g jshint**
+
+#### This will install the jshint package globally on your system.
+
+### Installing a Package Locally:
+#### We can also install packages locally to a project, as opposed to globally, on our system. Create a test folder and open a terminal in that directory. Next type this:
+
+**npm init -y**
+
+#### This will create and auto-populate a package.json file in the same folder. Next, use npm to install the lodash package and save it as a project dependency:
+
+**npm install lodash --save**
+
