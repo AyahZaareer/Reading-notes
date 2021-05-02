@@ -12,3 +12,7 @@
 #### However, when we say that Node is built on the V8 engine, we don’t mean that Node programs are executed in a browser. They aren’t. Rather, the creator of Node (Ryan Dahl) took the V8 engine and enhanced it with various features, such as a file system API, an HTTP library, and a number of operating system–related utility methods.
 
 #### This means that Node.js is a program we can use to execute JavaScript on our computers. In other words, it’s a JavaScript runtime.
+
+### What is npm?
+#### NPM is a package manager for Node. js packages, or modules if you like. www.npmjs.com hosts thousands of free packages to download and use. The NPM program is installed on your computer when you install Node.js. NPM is already ready to run on your computer!
+
