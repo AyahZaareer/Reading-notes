@@ -33,7 +33,7 @@
 | class 3      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class3) |
 | class 4      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class4)|
 | class5       |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class5)|
-|              |[Click HERE]()|
+| class 6      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class6)|
 |              |[Click HERE]()|
 |              |[Click HERE]()|
 |              |[Click HERE]()|
