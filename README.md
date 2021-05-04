@@ -35,7 +35,7 @@
 | class5       |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class5)|
 | class 6      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class6)|
 | class 7      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class7)|
-|              |[Click HERE]()|
+| class 8      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class8)|
 |              |[Click HERE]()|
 |              |[Click HERE]()|
 |              |[Click HERE]()|
