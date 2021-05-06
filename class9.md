@@ -32,3 +32,19 @@
 
 # What is Referential transparency?
 ### Referential transparency and referential opacity are properties of parts of computer programs. An expression is called referentially transparent if it can be replaced with its corresponding value (and vice-versa) without changing the program's behavior.[1] This requires that the expression be pure, that is to say the expression value must be the same for the same inputs and its evaluation must have no side effects. An expression that is not referentially transparent is called referentially opaque.
+
+
+# What is a module?
+### A module is a separate unit of software or hardware. Typical characteristics of modular components include portability, which allows them to be used in a variety of systems, and interoperability, which allows them to function with the components of other systems. The term was first used in architecture.
+
+# How do I import a module?
+Python Modules
+Save this code in a file named mymodule.py. ...
+Import the module named mymodule, and call the greeting function: ...
+Save this code in the file mymodule.py. ...
+Import the module named mymodule, and access the person1 dictionary: ...
+Create an alias for mymodule called mx : ...
+Import and use the platform module:
+مزيد من العناصر...
+
+
