@@ -38,13 +38,17 @@
 ### A module is a separate unit of software or hardware. Typical characteristics of modular components include portability, which allows them to be used in a variety of systems, and interoperability, which allows them to function with the components of other systems. The term was first used in architecture.
 
 # How do I import a module?
-Python Modules
-Save this code in a file named mymodule.py. ...
-Import the module named mymodule, and call the greeting function: ...
-Save this code in the file mymodule.py. ...
-Import the module named mymodule, and access the person1 dictionary: ...
-Create an alias for mymodule called mx : ...
-Import and use the platform module:
-مزيد من العناصر...
+
+**-Save this code in a file named mymodule.**
+
+**-Import the module named mymodule, and call the greeting function**
+
+**-Save this code in the file mymodule.**
+
+**-Import the module named mymodule, and access the person1 dictionary**
+
+**-Create an alias for mymodule called mx**
+
+**-Import and use the platform module**
 
 
