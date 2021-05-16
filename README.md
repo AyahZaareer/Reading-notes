@@ -38,7 +38,7 @@
 | class 8      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class8)|
 | class 9      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class9)|
 | class 10     |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class10)|
-|              |[Click HERE]()|
+| class 11     |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class11)|
 |              |[Click HERE]()|
 |              |[Click HERE]()|
 |              |[Click HERE]()|
