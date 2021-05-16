@@ -39,7 +39,7 @@
 | class 9      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class9)|
 | class 10     |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class10)|
 | class 11     |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class11)|
-|              |[Click HERE]()|
+| class 12     |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class12)|
 |              |[Click HERE]()|
 |              |[Click HERE]()|
 |              |[Click HERE]()|
