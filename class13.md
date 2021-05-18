@@ -15,4 +15,12 @@
 
 
 ## What code would you use if an update didn’t return data to a client?
-###
+### 204 No Content
+
+
+## What code would you use if a resource used to exist but no longer does?
+### 410
+
+
+## What is the ‘Forbidden’ status code?
+###  403 Forbidden client error status response code indicates that the server understood the request but refuses to authorize it.
