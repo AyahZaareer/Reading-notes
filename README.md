@@ -40,7 +40,7 @@
 | class 10     |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class10)|
 | class 11     |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class11)|
 | class 12     |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class12)|
-|              |[Click HERE]()|
+| class13      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class13)|
 |              |[Click HERE]()|
 |              |[Click HERE]()|
 
