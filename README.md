@@ -41,7 +41,7 @@
 | class 11     |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class11)|
 | class 12     |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class12)|
 | class13      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class13)|
-|              |[Click HERE]()|
+| class 14A    |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class14A)|
 |              |[Click HERE]()|
 
 
