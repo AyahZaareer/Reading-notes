@@ -38,3 +38,36 @@
 
 .If the stack takes up more space than it had assigned to it, it results in a "stack overflow" error.
 
+![image](https://user-images.githubusercontent.com/79833733/122968425-36074a00-d394-11eb-814f-10dc1c541fbe.png)
+
+#### The code above would be executed like this:
+
+1-Ignore all functions, until it reaches the greeting() function invocation.
+
+2-Add the greeting() function to the call stack list
+![image](https://user-images.githubusercontent.com/79833733/122968718-84b4e400-d394-11eb-9930-6d6407c98926.png)
+
+
+3-Execute all lines of code inside the greeting() function.
+
+4-Get to the sayHi() function invocation.
+
+5-Add the sayHi() function to the call stack list.
+
+![image](https://user-images.githubusercontent.com/79833733/122968868-aada8400-d394-11eb-887e-8c67c530f878.png)
+
+6-Execute all lines of code inside the sayHi() function, until reaches its end.
+
+7-Return execution to the line that invoked sayHi() and continue executing the rest of the greeting() function.
+
+8-Delete the sayHi() function from our call stack list
+
+![image](https://user-images.githubusercontent.com/79833733/122968976-cba2d980-d394-11eb-9e16-06e4e0b725c2.png)
+
+9-When everything inside the greeting() function has been executed, return to its invoking line to continue executing the rest of the JS code.
+
+10-Delete the greeting() function from the call stack list.
+
+![image](https://user-images.githubusercontent.com/79833733/122969059-e70de480-d394-11eb-9138-87c8c405c9de.png)
+
+
