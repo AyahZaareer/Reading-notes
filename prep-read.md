@@ -71,4 +71,6 @@
 
 ![image](https://user-images.githubusercontent.com/79833733/122969059-e70de480-d394-11eb-9138-87c8c405c9de.png)
 
+**In summary, then, we start with an empty Call Stack. Whenever we invoke a function, it is automatically added to the Call Stack. Once the function has executed all of its code, it is automatically removed from the Call Stack. Ultimately, the Stack is empty again.
+
 
