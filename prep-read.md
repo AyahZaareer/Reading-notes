@@ -45,6 +45,7 @@
 1-Ignore all functions, until it reaches the greeting() function invocation.
 
 2-Add the greeting() function to the call stack list
+
 ![image](https://user-images.githubusercontent.com/79833733/122968718-84b4e400-d394-11eb-9930-6d6407c98926.png)
 
 
