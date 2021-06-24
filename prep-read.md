@@ -22,6 +22,48 @@ b) practicing it.
 #### 1. Understand:
 #### Know exactly what is being asked. Most hard problems are hard because you don’t understand them (hence why this is the first step).How to know when you understand a problem? When you can explain it in plain English.
 
+#### 2. Plan:
+#### Don’t dive right into solving without a plan (and somehow hope you can muddle your way through). Plan your solution! Nothing can help you if you can’t write down the exact steps.In programming, this means don’t start hacking straight away. Give your brain time to analyze the problem and process the information.
+
+#### 3. Divide:
+#### Pay attention. This is the most important step of all.Do not try to solve one big problem. You will cry.Instead, break it into sub-problems. These sub-problems are much easier to solve.Then, solve each sub-problem one by one. Begin with the simplest. Simplest means you know the answer (or are closer to that answer).After that, simplest means this sub-problem being solved doesn’t depend on others being solved.
+
+#### 4. Stuck?
+#### By now, you’re probably sitting there thinking “Hey Richard... That’s cool and all, but what if I’m stuck and can’t even solve a sub-problem??” First off, take a deep breath. Second, that’s fair. Don’t worry though, friend. This happens to everyone! The difference is the best programmers/problem-solvers are more curious about bugs/errors than irritated.
+
+
+### In fact, here are three things to try when facing a whammy:
+#### Debug: Go step by step through your solution trying to find where you went wrong. Programmers call this debugging (in fact, this is all a debugger does).
+
+#### Reassess: Take a step back. Look at the problem from another perspective. Is there anything that can be abstracted to a more general approach?
+
+#### Research: Ahh, good ol’ Google. You read that right. No matter what problem you have, someone has probably solved it. Find that person/ solution. In fact, do this even if you solved the problem! (You can learn a lot from other people’s solutions).
+
+### Practice:
+#### Don’t expect to be great after just one week. If you want to be a good problem-solver, solve a lot of problems! Practice. Practice. Practice. It’ll only be a matter of time before you recognize that “this problem could easily be solved with < insert concept here>.”
+
+## 5 Whys Getting to the Root of a Problem Quickly:
+#### The 5 Whys uses "counter-measures," rather than "solutions." A counter-measure is an action or set of actions that seeks to prevent the problem from arising again, while a solution may just seek to deal with the symptom. As such, counter-measures are more robust, and will more likely prevent the problem from recurring.
+
+### How to Use the 5 Whys:
+#### 1. Assemble a Team:
+#### Gather together people who are familiar with the specifics of the problem, and with the process that you're trying to fix. Include someone to act as a facilitator , who can keep the team focused on identifying effective counter-measures.
+
+#### 2. Define the Problem.
+#### 3. Ask the First "Why?"
+#### 4. Ask "Why?" Four More Times.
+
+![image](https://user-images.githubusercontent.com/79833733/123252812-5bf83000-d4f5-11eb-9f55-62cffa01ded4.png)
+
+
+![image](https://user-images.githubusercontent.com/79833733/123252890-729e8700-d4f5-11eb-9d96-885dec9536fe.png)
+
+
+
+#### 5. Know When to Stop.
+#### 6. Address the Root Cause(s).
+#### 7. Monitor Your Measures.
+
 ## What is JavaScript?
 ### JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area.
 
