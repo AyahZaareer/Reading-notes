@@ -59,7 +59,7 @@
 | Read 4                          |  [clike her]()                                                         |
 | Read 5                          |  [clike her]()                                                         |
 | Read 6                          |  [clike her]()                                                         |
-| Read 7                          |  [clike hre])                                                          |
+| Read 7                          |  [clike hre]()                                                         |
 | Read 8                          |  [clike her]()                                                         |
 | Read 9                          |  [clike her ]()                                                        |
 | Read 10                         |  [click her]()                                                         |
