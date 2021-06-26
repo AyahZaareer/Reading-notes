@@ -26,42 +26,42 @@
 
 ## Code 301 - Intermediate Software Development
 ### Table Of Contents
-| content      | link                                                            |
-| -----------  | ----------------------------------------------------------------|
-| class 1      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class1) |
-| class 2      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class2) |
-| class 3      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class3) |
-| class 4      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class4)|
-| class5       |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class5)|
-| class 6      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class6)|
-| class 7      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class7)|
-| class 8      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class8)|
-| class 9      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class9)|
-| class 10     |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class10)|
-| class 11     |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class11)|
-| class 12     |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class12)|
-| class13      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class13)|
+| content      | link                                                             |
+| -----------  | -----------------------------------------------------------------|
+| class 1      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class1)  |
+| class 2      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class2)  |
+| class 3      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class3)  |
+| class 4      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class4)  |
+| class5       |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class5)  |
+| class 6      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class6)  |
+| class 7      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class7)  |
+| class 8      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class8)  |
+| class 9      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class9 ) |
+| class 10     |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class10) |
+| class 11     |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class11) |
+| class 12     |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class12) |
+| class13      |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class13) |
 | class 14A    |[Click HERE](https://ayahzaareer.github.io/Reading-notes/class14A)|
-|              |[Click HERE]()|
+
 
 
 
 ## Code 401 -  Advanced Software Development
 ### Table Of Contents
-| content      | link                                                            |
-| -----------  | ----------------------------------------------------------------|
+| content       | link                                                              |
+| -----------   | ------------------------------------------------------------------|
 | prep-read     |[Click HERE](https://ayahzaareer.github.io/Reading-notes/prep-read)|
-| read 1     |[Click HERE](https://ayahzaareer.github.io/Reading-notes/read401-1)|
-|      |[Click HERE]()|
-|      |[Click HERE]()|
-|      |[Click HERE]()|
-|      |[Click HERE]()|
-|      |[Click HERE]()|
-|      |[Click HERE]()|
-|      |[Click HERE]()|
-|      |[Click HERE]()|
-|      |[Click HERE]()|
-|      |[Click HERE]()|
-|      |[Click HERE]()|
-|      |[Click HERE]()|
-|      |[Click HERE]()|
+| read 1        |[Click HERE](https://ayahzaareer.github.io/Reading-notes/read401-1)|
+|               |[Click HERE]()|
+|               |[Click HERE]()|
+|               |[Click HERE]()|
+|               |[Click HERE]()|
+|               |[Click HERE]()|
+|               |[Click HERE]()|
+|               |[Click HERE]()|
+|               |[Click HERE]()|
+|               |[Click HERE]()|
+|               |[Click HERE]()|
+|               |[Click HERE]()|
+|               |[Click HERE]()|
+|               |[Click HERE]()|
