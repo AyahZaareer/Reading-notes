@@ -70,8 +70,8 @@
 
 | Titel                           |    URL                                                                 |
 |---------------------------------|------------------------------------------------------------------------|
-|Introductory HTML and JavaScript |  [ clike hre](https://ayahzaareer.github.io/reading2/HTML)             |
-| class-02                        |  [clike her]( https://ayahzaareer.github.io/reading2/class-02 )        |
+| prep-read                       |  [ clike hre](https://ayahzaareer.github.io/Reading-notes/prep-read)   |
+| read 1                          |  [clike her]( https://ayahzaareer.github.io/Reading-notes/read401-1 )  |
 | Read 3                          |  [clike her]( https://ayahzaareer.github.io/reading2/read03)           |
 | Read 4                          |  [clike her](https://ayahzaareer.github.io/reading2/read04)            |
 | Read 5                          |  [clike her](https://ayahzaareer.github.io/reading2/read05)            |
