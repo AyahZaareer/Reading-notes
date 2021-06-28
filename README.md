@@ -55,8 +55,8 @@
 |---------------------------------|------------------------------------------------------------------------|
 | prep-read                       |  [ clike hre](https://ayahzaareer.github.io/Reading-notes/prep-read)   |
 | Read 1                          |  [clike her]( https://ayahzaareer.github.io/Reading-notes/read401-1 )  |
-| Read 2                          |  [clike her](https://ayahzaareer.github.io/Reading-notes/read401-2 )                                                        |
-| Read 4                          |  [clike her]()                                                         |
+| Read 2                          |  [clike her](https://ayahzaareer.github.io/Reading-notes/read401-2 )   |
+| Read 3                          |  [clike her](https://ayahzaareer.github.io/Reading-notes/read401-3)    |
 | Read 5                          |  [clike her]()                                                         |
 | Read 6                          |  [clike her]()                                                         |
 | Read 7                          |  [clike hre]()                                                         |
