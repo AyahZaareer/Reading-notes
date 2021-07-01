@@ -58,7 +58,7 @@
 | Read 2                          |  [clike her](https://ayahzaareer.github.io/Reading-notes/read401-2 )   |
 | Read 3                          |  [clike her](https://ayahzaareer.github.io/Reading-notes/read401-3)    |
 | Read 4                          |  [clike her](https://ayahzaareer.github.io/Reading-notes/read401-4)    |
-| Read 6                          |  [clike her]()                                                         |
+| Linked-Lists                    |  [clike her](https://ayahzaareer.github.io/Reading-notes/Linked-Lists) |
 | Read 7                          |  [clike hre]()                                                         |
 | Read 8                          |  [clike her]()                                                         |
 | Read 9                          |  [clike her ]()                                                        |
