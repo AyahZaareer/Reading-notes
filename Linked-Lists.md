@@ -1,10 +1,13 @@
 ## What’s a Linked List?
-### inked list is a linear collection of data elements whose order is not given by their physical placement in memory. Instead, each element points to the next. It is a data structure consisting of a collection of nodes which together represent a sequence>
+### Linked list is a linear collection of data elements whose order is not given by their physical placement in memory. Instead, each element points to the next. It is a data structure consisting of a collection of nodes which together represent a sequence>
 
 #### The difference between arrays and linked lists :
 - The fundamental difference between arrays and linked lists is that arrays are static data structures, while linked lists are dynamic data structures.
 - A static data structure needs all of its resources to be allocated when the structure is created; this means that even if the structure was to grow or shrink in size and elements were to be added or removed, it still always needs a given size and amount of memory. 
 - a dynamic data structure can shrink and grow in memory. It doesn’t need a set amount of memory to be allocated in order to exist, and its size and shape can change, and the amount of memory it needs can change as well.
+
+
+  ![image](https://user-images.githubusercontent.com/79833733/124070072-ebe23080-da45-11eb-9590-8ff81dc3f5e2.png)
 
 ### Parts of a linked list:
 ![image](https://user-images.githubusercontent.com/79833733/124067395-023abd00-da43-11eb-824e-19ec0445f4cd.png)
