@@ -61,7 +61,7 @@
 | Linked-Lists                    |  [clike her](https://ayahzaareer.github.io/Reading-notes/Linked-Lists) |
 | Read 6                          |  [clike hre](https://ayahzaareer.github.io/Reading-notes/read401-6)    |
 | Read 7                          |  [clike her](https://ayahzaareer.github.io/Reading-notes/read401-7)    |
-| Read 9                          |  [clike her ]()                                                        |
+| Read 8                          |  [clike her ](https://ayahzaareer.github.io/Reading-notes/read401-8)   |
 | Read 10                         |  [click her]()                                                         |
 | Read 11                         |  [click her]()                                                         |
 | Read 12                         |  [click her]()                                                         |
