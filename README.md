@@ -63,7 +63,7 @@
 | Read 7                          |  [clike her](https://ayahzaareer.github.io/Reading-notes/read401-7)    |
 | Read 8                          |  [clike her ](https://ayahzaareer.github.io/Reading-notes/read401-8)   |
 | Read 9                          |  [click her](https://ayahzaareer.github.io/Reading-notes/read401-9)    |
-| Read 11                         |  [click her]()                                                         |
+| Read 10                         |  [click her](https://ayahzaareer.github.io/Reading-notes/read401-10)   |
 | Read 12                         |  [click her]()                                                         |
 | Read 13                         |  [click her]()                                                         |
 | Read 14                         |  [click her]()                                                         |
