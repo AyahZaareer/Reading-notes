@@ -65,6 +65,6 @@
 | Read 9                          |  [click her](https://ayahzaareer.github.io/Reading-notes/read401-9)    |
 | Read 10                         |  [click her](https://ayahzaareer.github.io/Reading-notes/read401-10)   |
 | Read 11                         |  [click her](https://ayahzaareer.github.io/Reading-notes/read401-11)   |
-| Read 13                         |  [click her]()                                                         |
+| Read 12                         |  [click her](https://ayahzaareer.github.io/Reading-notes/read401-12)   |
 | Read 14                         |  [click her]()                                                         |
 |Read15                           |  [click her]()                                                         |
