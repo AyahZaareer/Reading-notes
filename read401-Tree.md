@@ -27,6 +27,10 @@
        - In-order: left >> root >> right
        - Post-order: left >> right >> root
     - **Breadth First**
+      - Breadth first traversal iterates through the tree by going through each level of the tree node-by-node. So, given our starting tree one more time.
+      - Traditionally, breadth first traversal uses a queue (instead of the call stack via recursion) to traverse the width/breadth of the tree. Let’s break down the process Given our starting tree shown above, let’s start by putting the root into the queue.
+
+
 
 
 
