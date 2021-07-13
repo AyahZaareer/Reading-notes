@@ -31,6 +31,24 @@
       - Traditionally, breadth first traversal uses a queue (instead of the call stack via recursion) to traverse the width/breadth of the tree. Let’s break down the process Given our starting tree shown above, let’s start by putting the root into the queue.
 
 
+### Adding a node:
+  - Because there are no structural rules for where nodes are “supposed to go” in a binary tree, it really doesn’t matter where a new node gets placed.
+
+### Big O:
+- **time complexity:**
+  - inserting a new node is O(n).
+  - Searching for a specific node will also be O(n).
+- **space complexity :**
+  - for a node insertion using breadth first insertion will be O(w), where w is the largest width of the tree.
+  - A “perfect” binary tree is one where every non-leaf node has exactly two children. The maximum width for a perfect binary tree, is 2^(h-1), where h is the height of the tree. Height can be calculated as log n, where n is the number of nodes.
+
+### Binary Search Trees:
+- A Binary Search Tree (BST) is a type of tree that does have some structure attached to it. In a BST, nodes are organized in a manner where all values that are smaller than the root are placed to the left, and all values that are larger than the root are placed to the right.
+- Big O:
+  - time complexity of a Binary Search Tree’s insertion and search operations is O(h)
+  -  space complexity of a BST search would be O(1)
+
+
 
 
 
