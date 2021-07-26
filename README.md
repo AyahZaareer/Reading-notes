@@ -70,4 +70,5 @@
 |Read 14                          |  [click her](https://ayahzaareer.github.io/Reading-notes/read401-14)   |
 | Trees                           |  [click her](https://ayahzaareer.github.io/Reading-notes/read401-Tree) |
 | Read 16                         |  [clich her](https://ayahzaareer.github.io/Reading-notes/read401-16)   |
-| Read 17                         |  [clik her](https://ayahzaareer.github.io/Reading-notes/read401-17)    |
+| Read 17                         |  [click her](https://ayahzaareer.github.io/Reading-notes/read401-17)   |
+| Read 18                         |  [click her](https://ayahzaareer.github.io/Reading-notes/read401-18)   |
