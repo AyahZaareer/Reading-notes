@@ -72,3 +72,4 @@
 | Read 16                         |  [clich her](https://ayahzaareer.github.io/Reading-notes/read401-16)   |
 | Read 17                         |  [click her](https://ayahzaareer.github.io/Reading-notes/read401-17)   |
 | Read 18                         |  [click her](https://ayahzaareer.github.io/Reading-notes/read401-18)   |
+| Read 19                         |  [click her](https://ayahzaareer.github.io/Reading-notes/read401-19)   |
