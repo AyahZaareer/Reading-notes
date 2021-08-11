@@ -51,6 +51,23 @@
   - Hash tables can perform in constant time, while trees usually work in O(log n)O(logn). In the worst-case scenario, the performance of hash tables can be as low as O(n)O(n). An AVL tree, however, would maintain O(log n)O(logn) in the worst case. An efficient hash table requires a hash function to distribute keys. A tree is simpler, since it accesses extra space only when needed and does not require a hash function.
 
 
+## How to implement a hash table:
+  - To implement a hash table using JavaScript, we will do three things: create a hash table class, add a hash function, and implement a method for adding key/value pairs to our table. First, let’s create the HashTable class.
+
+   ![image](https://user-images.githubusercontent.com/79833733/129063137-cea814da-d335-435b-b614-401b27f177ae.png)
+
+
+  - The constructor contains an object in which we’re going to store the values, the length of the values, and the entire size of the hash table: meaning how many buckets the hash table contains. We will be storing our data in these buckets. Next, we have to implement a simple hashing function.
+
+   ![image](https://user-images.githubusercontent.com/79833733/129063343-e98d29b4-552d-4393-b9f0-62c6a0340652.png)
+  
+  
+  - This function takes the provided key and returns a hash that’s calculated using an arithmetic modulus. Finally, we need a method to insert key/value pairs. Take a look at the code and see this in action:
+
+
+   ![image](https://user-images.githubusercontent.com/79833733/129063474-45f81f8b-9e11-47e7-9156-90af2076081c.png)
+
+
   
  
 
