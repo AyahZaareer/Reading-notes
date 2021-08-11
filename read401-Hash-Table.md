@@ -29,6 +29,28 @@
      - Multiply it by a prime number such as 599.
      - Use modulo to get the remainder of the result, when divided by the total size of the array.
      - Insert into the array at that index.
+
+
+## Collisions:
+  - A collision occurs when more than one key hashes to the same index in an array. As mentioned earlier, a “perfect hash” will never have any collisions. To put this into perspective, the worst possible hash is one that hashes every single key to the same exact index of an array. The more keys you have hashed to a specific index, the more key/value pair combos you can potentially have.
+
+## Hash tables are made up of two parts:
+
+   - Object: An object with the table where the data is stored. The array holds all the key-value entries in the table. The size of the array should be set according to the amount of data expected.
+   - Hash function (or mapping function): This function determines the index of our key-value pair. It should be a one-way function and produce the a different hash for each key.
+
+
+   ![image](https://user-images.githubusercontent.com/79833733/129062550-7fd3f5b3-849f-4f1f-91ed-50e064b5087a.png)
+
+
+## Hash tables vs. trees:
+  - Hashing and trees perform similar jobs, but various factors in your program determine when to use one over the other.
+
+  - Trees are more useful when an application needs to order data in a specific sequence. Hash tables are the smarter choice for randomly sorted data due to its key-value pair organization.
+
+  - Hash tables can perform in constant time, while trees usually work in O(log n)O(logn). In the worst-case scenario, the performance of hash tables can be as low as O(n)O(n). An AVL tree, however, would maintain O(log n)O(logn) in the worst case. An efficient hash table requires a hash function to distribute keys. A tree is simpler, since it accesses extra space only when needed and does not require a hash function.
+
+
   
  
 
