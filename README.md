@@ -79,3 +79,4 @@
 | Read 29                         |  [click her]( https://ayahzaareer.github.io/Reading-notes/read401-29)  |
 | Read Hash-Table                 |  [click her]( https://ayahzaareer.github.io/Reading-notes/read401-Hash-Table)  |
 | Read 31                         |  [click her]( https://ayahzaareer.github.io/Reading-notes/read401-31)  |
+| Read 32                         |  [click her]( https://ayahzaareer.github.io/Reading-notes/read401-32)  |
