@@ -84,4 +84,42 @@
 
 
      ![image](https://user-images.githubusercontent.com/79833733/129866499-a4221f45-697a-49fe-a06b-2b70270dd7dc.png)
+     
+     
+## Weighted Graphs
+  - A weighted graph is a graph with numbers assigned to its edges. These numbers are called weights. This is what a weighted graph looks like:
+
+
+   ![image](https://user-images.githubusercontent.com/79833733/129872919-79ba7b5d-5c81-429c-be2e-dd560293bb27.png)
+   
+   
+   
+   - When representing a weighted graph in a matrix, you set the element in the 2D array to represent the actual weight between the two paths. If there is not a connection between the two vertices, you can put a 0, although it is known for some people to put the infinity sign instead.
+
+
+## Traversals
+### Breadth First:
+   - Enqueue the declared start node into the Queue.
+   - Create a loop that will run while the node still has nodes present.
+   - Dequeue the first node from the queue
+   - if the Dequeue‘d node has unvisited child nodes, add the unvisited children to visited set and insert them into the queue.
+
+  
+  
+   ![image](https://user-images.githubusercontent.com/79833733/129881772-bf9f8db7-2ca8-4c3f-a28e-148ebdde1198.png)
+
+
+### Depth First:
+  - Push the root node into the stack
+  - Start a while loop while the stack is not empty
+  - Peek at the top node in the stack
+  - If the top node has unvisited children, mark the top node as visited, and then Push any unvisited children back into the stack.
+  - If the top node does not have any unvisited children, Pop that node off the stack
+  - repeat until the stack is empty.
+
+
+
+   ![image](https://user-images.githubusercontent.com/79833733/129882079-9c5d7a9f-6432-4efa-8422-a8db6f99aa42.png)
+
+
 
