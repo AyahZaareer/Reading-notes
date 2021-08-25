@@ -87,3 +87,4 @@
 | Read 37                         |  [click her]( https://ayahzaareer.github.io/Reading-notes/read401-37 )  |
 | Read 38                         |  [click her]( https://ayahzaareer.github.io/Reading-notes/read401-38 )  |
 | Read 39                         |  [click her]( https://ayahzaareer.github.io/Reading-notes/read401-39 )  |
+| Read 41                         |  [click her]( https://ayahzaareer.github.io/Reading-notes/read401-41 )  |
